@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name" translatable="false">YtMusic</string>
+    <string name="user_name" translatable="false">Van Two</string>
+    <string name="greeting">Hello, %1$s</string>
+    <string name="skeleton_status">Stage 2 skeleton, build OK</string>
+</resources>
